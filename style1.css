@@ -1,0 +1,31 @@
+body {
+  background-color: skyblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.containar {
+  background-color: black;
+  padding: 30px;
+  border-radius: 150px;
+  margin-top: 150px;
+  margin-bottom: 50px;
+}
+.sig {
+  width: 150px;
+  height: 150px;
+  margin: 30px;
+  background-color: rgb(65, 65, 65);
+  border-radius: 50%;
+}
+
+.red:hover {
+  background-color: red;
+}
+.yellow:hover {
+  background-color: yellow;
+}
+.green:hover {
+  background-color: green;
+}
